@@ -2,7 +2,7 @@ xss_skrill
 ==========
 
 **Demo:** http://atastycookie.me/skrill/
-**First msg:** https://www.facebook.com/rsananyev/posts/821836387880698
+**1stcommit:** https://github.com/aTastyCookie/xss_skrill/commit/33fae2ff7da346ee41d8bb962083b5030b967d14
 
 
 Write you example of XSS and we post it here :)
