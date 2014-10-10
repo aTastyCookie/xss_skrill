@@ -1,6 +1,8 @@
 xss_skrill
 ==========
 
+*xss work: 9,10.10.2014*
+
 **Demo:** http://atastycookie.me/skrill/
 
 
