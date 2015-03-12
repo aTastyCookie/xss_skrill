@@ -3,7 +3,7 @@ xss_skrill - fixed
 
 *xss work: 9,10,11,12,13,14,15,16,17.10.2014*
 
-**Demo:** http://atastycookie.me/skrill/
+**Demo:** http://rananyev.ru/skrill/
 
 
 Write you example of XSS and we post it here :)
